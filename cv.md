@@ -5,7 +5,7 @@
 * Location: Minsk, Belarus
 * Phone: +375 29 331-19-06
 * Email: 80x500@gmail.com
-* GitHub: YuryZX50
+* GitHub: [YuryZX50](https://github.com/YuryZX50)
 ## About Me
 
 ## Skills
