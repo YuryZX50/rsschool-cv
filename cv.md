@@ -22,8 +22,8 @@ alert(res);
 
 ## Education
 * University:
-+ BSUIR
-+ UCP
+  + BSUIR
+  + UCP
 * Courses:
-+ FreeCodeCamp
-+ RS School(In progress)
+  + FreeCodeCamp
+  + RS School(In progress)
