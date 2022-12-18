@@ -9,6 +9,10 @@ body {
     color: black;
 }
 
+.nav {
+    background-color: rgb(79, 119, 112);
+}
+
 .nav-list {
     display: flex;
     justify-content: flex;
@@ -45,6 +49,7 @@ h1 {
 
 footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    background-color: rgb(79, 119, 112);
 }
