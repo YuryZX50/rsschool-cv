@@ -13,7 +13,7 @@
 ## Code Example
 ```
 function mult(x, y) {
-  retun x*y:
+  return x*y:
 }
 let res = mult(3, 4);
 alert(res);
