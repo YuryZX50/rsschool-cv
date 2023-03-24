@@ -8,7 +8,7 @@
 * GitHub: [YuryZX50](https://github.com/YuryZX50)
 * Discord: YuryBelavushka#2665
 ## About Me
-
+  ### I want to learn front-end.
 ## Skills
 * HTML5
 * CSS
