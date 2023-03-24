@@ -1,3 +1,56 @@
 html {
-  margin 0 auto;
+    scroll-behavior: smooth; 
+    margin: 0 auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: black;
+}
+
+.nav {
+    background-color: rgb(79, 119, 112);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+h1 {
+    color: rgb(8, 6, 31);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(180, 186, 190);
+    padding: 20px;
+}
+
+.section {
+    width: 50%;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(79, 119, 112);
 }
